@@ -1,0 +1,12 @@
+{
+    "accounts": [
+        {
+            "id": "1",
+            "date": "date",
+            "name": "name or ip",
+            "access_key_id": "you_acces_key_id",
+            "access_key_secret": "your_key_secret",
+            "region_id": "ap-southeast-3"
+        }
+    ]
+}
